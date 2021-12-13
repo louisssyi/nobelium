@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'LOUUUIS',
-  author: 'louuuis',
+  title: 'LoUIs',
+  author: 'Louis',
   email: 'luyileo23@gmail.com',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  link: 'https://www.baidu.com',
+  description: '关于我的设计和生活。',
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/louis190y',
   seo: {
     keywords: ['Blog', 'Website', 'Notion','Design'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
